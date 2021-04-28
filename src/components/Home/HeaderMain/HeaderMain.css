@@ -1,0 +1,9 @@
+.btn-style{
+    background-image: linear-gradient(to right, #25aae1,#2bb673);
+    box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
